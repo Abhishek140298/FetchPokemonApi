@@ -1,0 +1,14 @@
+.main_div {
+  background-color: aqua;
+  display: flex;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.select_div {
+  display: flex;
+  align-items: center;
+  height: 25px;
+  margin-bottom: 20px;
+}
